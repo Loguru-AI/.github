@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Read as "Log Guru", Loguru is intelligence for all your logs.
+
 <!--
 
 **Here are some ideas to get you started:**
